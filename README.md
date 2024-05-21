@@ -200,3 +200,5 @@ g++ -o process_data process_data.cpp -lsqlite3
 python3 train_model.py
 
 ```
+
+This project covers data storage, retrieval, processing, model training, version control, and automation, using the specified technologies.
